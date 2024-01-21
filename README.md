@@ -20,7 +20,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=python,c++,html,css,js,typescript,firebase,react,next,github,vscode,docker,laravel,php,discord,gutlab,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,typescript,firebase,react,next,github,vscode,docker,laravel,php,discord,gutlab,aws" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
