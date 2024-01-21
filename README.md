@@ -1,4 +1,4 @@
-# Backend Developer in Japan👋
+# I'm a university student studying programming in Japan👋
 ### Just 20 years old 
 ### Feel free to contact me anytime!👍
 #
@@ -13,7 +13,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,c++,html,css,js,typescript,firebase,react,next,github,vscode,docker,laravel,php,discord,gutlab,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,typescript,firebase,react,next,github,vscode,docker,laravel,php,discord,gutlab,aws" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
