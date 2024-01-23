@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,discord" /> <br /><br />
 
 
-# My Skill I'm learning Now (Programming Languages, Frameworks and Tools)
+# I'm learning Now (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,typescript,react,next,laravel,php," /> <br /><br />
 
