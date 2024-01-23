@@ -3,7 +3,7 @@
 ### Feel free to contact me anytime!👍
 #
 
-# My E-mail Adress
+# My G-mail Adress
 
 <p align="left">
 <a href="21kazuma21@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=21kazuma21@gmail.com"/></a>
