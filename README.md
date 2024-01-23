@@ -3,19 +3,24 @@
 ### Feel free to contact me anytime!👍
 #
 
-# NOW TRAINING
+# My E-mail Adress
 
 <p align="left">
 <a href="21kazuma21@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=21kazuma21@gmail.com"/></a>
 </p>
 
+# My Skill (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,discord" /> <br /><br />
 
 
-# My Skill I'm learning (Programming Languages, Frameworks and Tools)
+# My Skill I'm learning Now (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,typescript,firebase,react,next,github,vscode,docker,laravel,php,discord,gutlab,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,typescript,react,next,laravel,php," /> <br /><br />
 
+# Programming languages, frameworks and tools I would like to learn in the future
 
+<img src="https://skillicons.dev/icons?i=unity,aws,docker,mysql,go,firebase,ruby,java" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
