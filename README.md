@@ -20,7 +20,7 @@
 
 # I'm Learning Now (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=unity,unreal engine,python,django,cpp,cs,js,laravel,php,mysql,docker,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=unity,unrealengine,python,django,cpp,cs,js,laravel,php,mysql,docker,aws" /> <br /><br />
 
 # Programming languages, frameworks and tools I would like to learn in the future
 
