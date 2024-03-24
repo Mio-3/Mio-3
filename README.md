@@ -15,7 +15,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,discord" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,discord" /> <br /><br />
 
 
 # I'm Learning Now (Programming Languages, Frameworks and Tools)
