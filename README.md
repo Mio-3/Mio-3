@@ -15,12 +15,12 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,discord" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,cs,cpp,php,laravel,git,github,vscode,discord" /> <br /><br />
 
 
 # I'm Learning Now (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,typescript,react,next,laravel,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=unity,python,django,cpp,cs,js,laravel,php,docker,aws,unreal engine" /> <br /><br />
 
 # Programming languages, frameworks and tools I would like to learn in the future
 
