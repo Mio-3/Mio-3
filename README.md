@@ -1,6 +1,6 @@
 # I'm a university student studying programming in Japan👋
 ### Just 20 years old 
-### Feel free to contact me anytime!👍
+### Feel free to contact me anytime!!👍
 
 #
 <p align="left"> 
