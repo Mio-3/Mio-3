@@ -1,4 +1,5 @@
-# 初めまして！！kazumaと言います。/My name is Kazuma.I'm a university student studying programming in Japan👋
+# 初めまして！！kazumaと言います。
+# My name is Kazuma.I'm a university student studying programming in Japan👋
 ### Just 20 years old 
 ### Feel free to contact me anytime!!👍
 
