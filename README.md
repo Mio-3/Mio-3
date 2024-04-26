@@ -9,6 +9,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mio-3&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mio-3&theme=★★★&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mio-3&theme=gruvbox)
 
 
 # My G-mail Adress
