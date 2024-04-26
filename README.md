@@ -1,6 +1,6 @@
 # 初めまして！！kazumaと言います。
 # My name is Kazuma.I'm a university student studying programming in Japan👋
-### Just 20 years old 
+### エンジニアを目指して、学習をしている大学3年生です！
 ### Feel free to contact me anytime!!👍
 
 #
