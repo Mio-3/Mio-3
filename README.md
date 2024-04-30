@@ -1,4 +1,5 @@
-# 初めまして！！kazumaと言います。
+### 自己紹介/Self Introduction
+## 初めまして！！kazumaと言います。
 ## My name is Kazuma.I'm a university student studying programming in Japan👋
 
 ### エンジニアを目指して、学習をしている大学3年生です！
