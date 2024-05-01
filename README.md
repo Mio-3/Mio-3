@@ -24,11 +24,11 @@
 
 # I'm Learning Now (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=unity,unrealengine,python,django,cpp,cs,js,php,mysql,docker,aws,postgresql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=unity,unrealengine,python,django,react,next.js,cpp,cs,js,php,mysql,docker,aws,postgresql" /> <br /><br />
 
 # Programming languages, frameworks and tools I would like to learn in the future
 
-<img src="https://skillicons.dev/icons?i=go,java,react,next,typescript" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=go,java,typescript" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
