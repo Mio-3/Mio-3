@@ -3,7 +3,7 @@
 ## My name is Kazuma.I'm a university student studying programming in Japan👋
 
 ### エンジニアを目指して、学習をしている大学3年生です！
-### 最近は技術書を読むこと、バイオハザードなどのホラーゲームにハマっています。
+### 最近は技術書を読むこと、バイオハザードなどのホラーゲーム、ガンダムを見ることにハマっています。
 
 #
 <p align="left"> 
