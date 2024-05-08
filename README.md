@@ -24,7 +24,7 @@
 
 # I'm Learning Now (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=unity,unrealengine,python,ruby,rails,render,react,next,vercel,cpp,cs,js,typescript,mysql,docker,kubernetes,aws,postgresql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=unity,unrealengine,python,ruby,rails,react,next,vercel,cpp,cs,js,typescript,mysql,docker,kubernetes,aws,postgresql" /> <br /><br />
 
 # Programming languages, frameworks and tools I would like to learn in the future
 
