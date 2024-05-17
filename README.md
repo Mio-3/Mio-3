@@ -29,7 +29,7 @@
 
 # Programming languages, frameworks and tools I would like to learn in the future
 
-<img src="https://skillicons.dev/icons?i=go,java,php,laravel,django,flask" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=go,java,springboot,php,laravel,django,flask" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
