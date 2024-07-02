@@ -35,7 +35,7 @@
 
 # Skills I would like to learn in the future
 
-<img src="https://skillicons.dev/icons?i=go,golang,java,spring,laravel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=go,java,spring,laravel" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
