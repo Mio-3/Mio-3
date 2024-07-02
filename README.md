@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,cpp,python,ruby,php" /> <br /><br />
 
 ## Libraries / FrameWork
-<img src="https://skillicons.dev/icons?i=react,next,fastapi,rails,tailwind,node" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,fastapi,rails,tailwind,nodejs," /> <br /><br />
 
 
 # I'm Learning Now (Programming Languages, Frameworks and Tools)
