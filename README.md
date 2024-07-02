@@ -22,19 +22,20 @@
 # My Skill (Including Learning now)
 
 ## Languages
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,cpp,python,ruby,php" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,cpp,python,ruby,php,git" /> <br /><br />
 
 ## Libraries / FrameWork
-<img src="https://skillicons.dev/icons?i=react,next,fastapi,rails,tailwind,nodejs," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,fastapi,django,rails,tailwind,nodejs," /> <br /><br />
 
+## Tools
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,docker,mysql,postgres,unity,unreal,figma" /> <br /><br />
 
-# I'm Learning Now (Programming Languages, Frameworks and Tools)
+## Services
+<img src="https://skillicons.dev/icons?i=github,postman,aws" /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=unity,unrealengine,python,ruby,rails,react,next,vercel,cpp,cs,js,typescript,mysql,docker,kubernetes,aws,postgresql" /> <br /><br />
+# Skills I would like to learn in the future
 
-# Programming languages, frameworks and tools I would like to learn in the future
-
-<img src="https://skillicons.dev/icons?i=go,java,spring,php,laravel,django,flask" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=go,golang,java,spring,laravel" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
