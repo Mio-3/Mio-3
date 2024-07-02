@@ -19,9 +19,13 @@
 <a href="21kazuma21@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=21kazuma21@gmail.com"/></a>
 </p>
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# My Skill (Including Learning now)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,cs,cpp,ruby,rails,git,github,vscode,discord" /> <br /><br />
+## Languages
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,cpp,python,ruby,php" /> <br /><br />
+
+## Libraries / FrameWork
+<img src="https://skillicons.dev/icons?i=react,next,fastapi,rails,tailwind,node," /> <br /><br />
 
 
 # I'm Learning Now (Programming Languages, Frameworks and Tools)
