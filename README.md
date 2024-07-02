@@ -21,7 +21,7 @@
 
 # My Skill (Including Learning now)
 
-## Languages
+## Programming Languages
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,cpp,python,ruby,php,git" /> <br /><br />
 
 ## Libraries / FrameWork
