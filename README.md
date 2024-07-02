@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=react,next,fastapi,django,rails,tailwind,nodejs," /> <br /><br />
 
 ## Tools
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,docker,mysql,postgres,unity,unreal,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,docker,mysql,postgres,mongodb,unity,unreal,figma" /> <br /><br />
 
 ## Services
 <img src="https://skillicons.dev/icons?i=github,postman,aws" /> <br /><br />
