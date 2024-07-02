@@ -4,8 +4,8 @@
 
 ### エンジニアを目指して、学習をしている大学3年生です！
 
-### 趣味：映画鑑賞、ゲーム、読書、美味しいご飯屋巡り
-### 最近は技術書を読むこと、Nintendo Switchのゲーム、バイオハザードなどのホラーゲームやRPG、戦略ゲーム、機動戦士ガンダムなどのアニメを見ることにハマっています。
+### 趣味：動画鑑賞、ゲーム、読書、美味しいご飯屋巡り
+### 最近は技術書を読むこと、Nintendo Switchのゲーム、バイオハザードなどのホラーゲームやRPG、戦略ゲームにハマっています。
 
 #
 <p align="left"> 
@@ -21,7 +21,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp,ruby,rails,git,github,vscode,discord" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,cs,cpp,ruby,rails,git,github,vscode,discord" /> <br /><br />
 
 
 # I'm Learning Now (Programming Languages, Frameworks and Tools)
