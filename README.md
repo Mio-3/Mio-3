@@ -20,7 +20,7 @@
 # My Skill (Including Learning now)
 
 ## Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,cpp,python,ruby,php,git" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,cpp,python,go,ruby,php,git" /> <br /><br />
 
 ## Libraries / FrameWork
 <img src="https://skillicons.dev/icons?i=react,next,fastapi,django,rails,tailwind,materialui" /> <br /><br />
@@ -33,7 +33,7 @@
 
 # Skills I would like to learn in the future
 
-<img src="https://skillicons.dev/icons?i=go,java,spring,laravel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=java,spring,laravel" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
