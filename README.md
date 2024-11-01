@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,cpp,python,go,ruby,php,git" /> <br /><br />
 
 ## Libraries / FrameWork
-<img src="https://skillicons.dev/icons?i=react,next,fastapi,django,rails,echo,tailwind,materialui" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,fastapi,django,rails,tailwind,materialui" /> <br /><br />
 
 ## Tools
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,docker,mysql,postgres,mongodb,unity,unreal,figma" /> <br /><br />
