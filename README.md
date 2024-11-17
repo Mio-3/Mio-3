@@ -4,7 +4,7 @@
 
 ### エンジニアを目指して、学習をしている大学3年生です！
 
-### 趣味：美味しいご飯屋巡り、自転車、写真、世界史
+### 趣味：美味しいご飯屋巡り、自転車、写真、世界史、ゲーム
 #
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mio-3&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
