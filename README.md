@@ -2,9 +2,10 @@
 ## 初めまして！！kazumaと言います。
 ## My name is Kazuma.I'm a university student studying programming in Japan👋
 
-### エンジニアを目指して、学習をしている大学3年生です！
+### WEBエンジニアを目指している大学4年です。就活終わりました〜😮‍💨
 
-### 趣味：美味しいご飯屋巡り、自転車、写真、世界史、ゲーム
+### 趣味：美味しいご飯屋巡り、自転車、ゲーム、政治の勉強
+### 資格：TOEIC Score 870(2023年06月取得)
 #
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mio-3&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
